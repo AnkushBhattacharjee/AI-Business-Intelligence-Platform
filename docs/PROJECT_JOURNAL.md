@@ -90,3 +90,18 @@ Learn advanced data analysis techniques using Pandas.
 
 ### Conclusion
 The project can now answer complex business questions and summarize data in a structured format.
+
+## Version 0.2 - First Visualization
+
+### Completed
+- Learned Matplotlib basics
+- Created first Bar Chart
+- Customized colors
+- Added chart title and axis labels
+- Added grid lines
+- Displayed values above each bar
+- Automatically saved chart to screenshots/
+
+### Business Insight
+Technology generated the highest sales among all categories.
+Office Supplies generated the lowest sales.
